@@ -65,11 +65,11 @@ class PyCalc(QMainWindow):
         self.display.setReadOnly(True)
         self.mainLayout.addWidget(self.display)
         self.setStyleSheet("background-color: \
-                           hsl(216, 65.4%, 82%); \
+                           hsl(271, 51%, 59.2%); \
                            color: hsl(45, 9.7%, 0%); \
                            border-style: solid; \
-                           border-radius: 0.5px; border-width: 1px; \
-                           border-color: hsl(177.7, 88%, 81%);")
+                           border-radius: 0.5px; border-width: 2px; \
+                           border-color: hsl(180, 81.8%, 87.1%);")
 
     def Buttons_config(self):
         self.buttons = {}
