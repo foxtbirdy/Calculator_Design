@@ -1,0 +1,6 @@
+For running this program, You will require pyqt.
+
+py_cal.py is built out from pyqt5
+
+Be sure to download pyqt5 on python.
+Please note that pyqt4 will not work.
